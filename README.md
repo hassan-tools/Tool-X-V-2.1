@@ -10,7 +10,7 @@ apt update
 
 apt install git
 
-git clone https://github.com/Hassan-tools/Tool-X.git
+git clone https://github.com/hassan-tools/Tool-X-V-2.1/blob/master/Tool-X
 
 cd Tool-X
 
