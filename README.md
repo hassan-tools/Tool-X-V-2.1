@@ -6,7 +6,7 @@ Tool-X is User interface like python and works the same it has 264 hacking tools
 inbox_tray   How to Install   inbox_tray
 Open the terminal and type following commands.
 
-apt update
+apt update && apt upgrade -y
 
 apt install git
 
